@@ -1,0 +1,101 @@
+start_station_id,end_station_id,start_station_name,end_station_name,avg_trip_time,trip_count,start_lat,start_lon,end_lat,end_lon
+61,50,2nd at Townsend,Harry Bridges Plaza (Ferry Building),8.539755981619388,6311,37.780526,-122.390288,37.795392,-122.394203
+50,61,Harry Bridges Plaza (Ferry Building),2nd at Townsend,9.865166552589569,5844,37.795392,-122.394203,37.780526,-122.390288
+51,70,Embarcadero at Folsom,San Francisco Caltrain (Townsend at 4th),10.315270460133455,5694,37.791464,-122.391034,37.776617,-122.39526
+70,50,San Francisco Caltrain (Townsend at 4th),Harry Bridges Plaza (Ferry Building),11.949993891637643,5457,37.776617,-122.39526,37.795392,-122.394203
+50,60,Harry Bridges Plaza (Ferry Building),Embarcadero at Sansome,12.177054920751884,5426,37.795392,-122.394203,37.80477,-122.403234
+55,70,Temporary Transbay Terminal (Howard at Beale),San Francisco Caltrain (Townsend at 4th),10.60688236394243,5347,37.789756,-122.394643,37.776617,-122.39526
+74,70,Steuart at Market,San Francisco Caltrain (Townsend at 4th),11.711755672558654,5318,37.794139,-122.394434,37.776617,-122.39526
+74,61,Steuart at Market,2nd at Townsend,8.95502450980393,5168,37.794139,-122.394434,37.780526,-122.390288
+70,55,San Francisco Caltrain (Townsend at 4th),Temporary Transbay Terminal (Howard at Beale),11.370320381731407,4890,37.776617,-122.39526,37.789756,-122.394643
+60,74,Embarcadero at Sansome,Steuart at Market,7.289609011229825,4868,37.80477,-122.403234,37.794139,-122.394434
+67,69,Market at 10th,San Francisco Caltrain 2 (330 Townsend),9.974940582293492,4488,37.776619,-122.417385,37.7766,-122.39547
+50,70,Harry Bridges Plaza (Ferry Building),San Francisco Caltrain (Townsend at 4th),13.14692982456142,4370,37.795392,-122.394203,37.776617,-122.39526
+70,51,San Francisco Caltrain (Townsend at 4th),Embarcadero at Folsom,10.288660325009918,4205,37.776617,-122.39526,37.791464,-122.391034
+70,74,San Francisco Caltrain (Townsend at 4th),Steuart at Market,11.679270937604304,3996,37.776617,-122.39526,37.794139,-122.394434
+74,60,Steuart at Market,Embarcadero at Sansome,8.832200606366872,3958,37.794139,-122.394434,37.80477,-122.403234
+63,70,Howard at 2nd,San Francisco Caltrain (Townsend at 4th),8.214120006977145,3822,37.786978,-122.398108,37.776617,-122.39526
+61,74,2nd at Townsend,Steuart at Market,8.814881780250353,3595,37.780526,-122.390288,37.794139,-122.394434
+39,69,Powell Street BART,San Francisco Caltrain 2 (330 Townsend),7.506628470281333,3578,37.783871,-122.408433,37.7766,-122.39547
+70,77,San Francisco Caltrain (Townsend at 4th),Market at Sansome,10.464245416079004,3545,37.776617,-122.39526,37.789625,-122.400811
+69,39,San Francisco Caltrain 2 (330 Townsend),Powell Street BART,9.268873780668068,3383,37.7766,-122.39547,37.783871,-122.408433
+77,64,Market at Sansome,2nd at South Park,6.491312799043066,3344,37.789625,-122.400811,37.782259,-122.392738
+69,67,San Francisco Caltrain 2 (330 Townsend),Market at 10th,13.04590464547679,3272,37.7766,-122.39547,37.776619,-122.417385
+72,65,Civic Center BART (7th at Market),Townsend at 7th,8.291121155444714,3208,37.781039,-122.411748,37.771058,-122.402717
+70,63,San Francisco Caltrain (Townsend at 4th),Howard at 2nd,8.515891351857636,3203,37.776617,-122.39526,37.786978,-122.398108
+77,70,Market at Sansome,San Francisco Caltrain (Townsend at 4th),10.857662174866821,3191,37.789625,-122.400811,37.776617,-122.39526
+56,70,Beale at Market,San Francisco Caltrain (Townsend at 4th),11.828533038254825,3163,37.792251,-122.397086,37.776617,-122.39526
+67,70,Market at 10th,San Francisco Caltrain (Townsend at 4th),10.4754357475371,3079,37.776619,-122.417385,37.776617,-122.39526
+64,77,2nd at South Park,Market at Sansome,6.844092550049218,3047,37.782259,-122.392738,37.789625,-122.400811
+69,57,San Francisco Caltrain 2 (330 Townsend),5th at Howard,6.705881372875714,3001,37.7766,-122.39547,37.781752,-122.405127
+76,70,Market at 4th,San Francisco Caltrain (Townsend at 4th),7.972989276139407,2984,37.786305,-122.404966,37.776617,-122.39526
+65,72,Townsend at 7th,Civic Center BART (7th at Market),7.683730569948181,2895,37.771058,-122.402717,37.781039,-122.411748
+74,69,Steuart at Market,San Francisco Caltrain 2 (330 Townsend),11.930988932524125,2801,37.794139,-122.394434,37.7766,-122.39547
+55,61,Temporary Transbay Terminal (Howard at Beale),2nd at Townsend,7.220884923525126,2746,37.789756,-122.394643,37.780526,-122.390288
+60,50,Embarcadero at Sansome,Harry Bridges Plaza (Ferry Building),9.066214730670598,2729,37.80477,-122.403234,37.795392,-122.394203
+55,69,Temporary Transbay Terminal (Howard at Beale),San Francisco Caltrain 2 (330 Townsend),10.260167405219118,2708,37.789756,-122.394643,37.7766,-122.39547
+69,51,San Francisco Caltrain 2 (330 Townsend),Embarcadero at Folsom,10.249484023374348,2681,37.7766,-122.39547,37.791464,-122.391034
+62,70,2nd at Folsom,San Francisco Caltrain (Townsend at 4th),7.122603692463328,2636,37.785299,-122.396236,37.776617,-122.39526
+69,50,San Francisco Caltrain 2 (330 Townsend),Harry Bridges Plaza (Ferry Building),11.73127312157162,2613,37.7766,-122.39547,37.795392,-122.394203
+54,70,Embarcadero at Bryant,San Francisco Caltrain (Townsend at 4th),7.847868663594471,2604,37.787152,-122.388013,37.776617,-122.39526
+70,42,San Francisco Caltrain (Townsend at 4th),Davis at Jackson,13.909486666666645,2500,37.776617,-122.39526,37.79728,-122.398436
+42,70,Davis at Jackson,San Francisco Caltrain (Townsend at 4th),14.114129554655882,2470,37.79728,-122.398436,37.776617,-122.39526
+69,55,San Francisco Caltrain 2 (330 Townsend),Temporary Transbay Terminal (Howard at Beale),11.219983381803091,2407,37.7766,-122.39547,37.789756,-122.394643
+69,63,San Francisco Caltrain 2 (330 Townsend),Howard at 2nd,8.49013860013861,2405,37.7766,-122.39547,37.786978,-122.398108
+41,70,Clay at Battery,San Francisco Caltrain (Townsend at 4th),15.304799776754558,2389,37.795001,-122.39997,37.776617,-122.39526
+69,74,San Francisco Caltrain 2 (330 Townsend),Steuart at Market,11.353639104220525,2322,37.7766,-122.39547,37.794139,-122.394434
+51,69,Embarcadero at Folsom,San Francisco Caltrain 2 (330 Townsend),10.381134659746255,2312,37.791464,-122.391034,37.7766,-122.39547
+61,77,2nd at Townsend,Market at Sansome,7.5901185770751,2277,37.780526,-122.390288,37.789625,-122.400811
+67,76,Market at 10th,Market at 4th,7.195792004809141,2218,37.776619,-122.417385,37.786305,-122.404966
+82,70,Broadway St at Battery St,San Francisco Caltrain (Townsend at 4th),14.306444748442015,2193,37.798541,-122.400862,37.776617,-122.39526
+70,67,San Francisco Caltrain (Townsend at 4th),Market at 10th,13.703593996840446,2110,37.776617,-122.39526,37.776619,-122.417385
+77,61,Market at Sansome,2nd at Townsend,8.3958611907036,2094,37.789625,-122.400811,37.780526,-122.390288
+69,77,San Francisco Caltrain 2 (330 Townsend),Market at Sansome,10.9980843840931,2062,37.7766,-122.39547,37.789625,-122.400811
+70,68,San Francisco Caltrain (Townsend at 4th),Yerba Buena Center of the Arts (3rd @ Howard),7.199320718098008,2061,37.776617,-122.39526,37.784878,-122.401014
+70,56,San Francisco Caltrain (Townsend at 4th),Beale at Market,13.152251146037996,2036,37.776617,-122.39526,37.792251,-122.397086
+55,65,Temporary Transbay Terminal (Howard at Beale),Townsend at 7th,13.97812871455256,1963,37.789756,-122.394643,37.771058,-122.402717
+63,69,Howard at 2nd,San Francisco Caltrain 2 (330 Townsend),8.46503484616692,1961,37.786978,-122.398108,37.7766,-122.39547
+49,70,Spear at Folsom,San Francisco Caltrain (Townsend at 4th),9.373993727130165,1913,37.790302,-122.390637,37.776617,-122.39526
+57,69,5th at Howard,San Francisco Caltrain 2 (330 Townsend),6.749096015446725,1899,37.781752,-122.405127,37.7766,-122.39547
+70,60,San Francisco Caltrain (Townsend at 4th),Embarcadero at Sansome,17.5188794476898,1883,37.776617,-122.39526,37.80477,-122.403234
+61,55,2nd at Townsend,Temporary Transbay Terminal (Howard at Beale),7.876734987414598,1854,37.780526,-122.390288,37.789756,-122.394643
+73,77,Grant Avenue at Columbus Avenue,Market at Sansome,7.290091349738987,1788,37.7979,-122.405942,37.789625,-122.400811
+70,41,San Francisco Caltrain (Townsend at 4th),Clay at Battery,15.345964714714713,1776,37.776617,-122.39526,37.795001,-122.39997
+65,50,Townsend at 7th,Harry Bridges Plaza (Ferry Building),14.280195854725235,1753,37.771058,-122.402717,37.795392,-122.394203
+64,50,2nd at South Park,Harry Bridges Plaza (Ferry Building),9.515307092603159,1753,37.782259,-122.392738,37.795392,-122.394203
+55,57,Temporary Transbay Terminal (Howard at Beale),5th at Howard,7.063297059946529,1746,37.789756,-122.394643,37.781752,-122.405127
+60,70,Embarcadero at Sansome,San Francisco Caltrain (Townsend at 4th),17.741398809523837,1680,37.80477,-122.403234,37.776617,-122.39526
+50,69,Harry Bridges Plaza (Ferry Building),San Francisco Caltrain 2 (330 Townsend),13.099688003220605,1656,37.795392,-122.394203,37.7766,-122.39547
+50,65,Harry Bridges Plaza (Ferry Building),Townsend at 7th,15.643030303030308,1650,37.795392,-122.394203,37.771058,-122.402717
+77,69,Market at Sansome,San Francisco Caltrain 2 (330 Townsend),11.399299207800123,1641,37.789625,-122.400811,37.7766,-122.39547
+70,48,San Francisco Caltrain (Townsend at 4th),Embarcadero at Vallejo,15.042210697579817,1639,37.776617,-122.39526,37.799953,-122.398525
+39,70,Powell Street BART,San Francisco Caltrain (Townsend at 4th),7.965685673410993,1631,37.783871,-122.408433,37.776617,-122.39526
+68,70,Yerba Buena Center of the Arts (3rd @ Howard),San Francisco Caltrain (Townsend at 4th),6.799762641898864,1615,37.784878,-122.401014,37.776617,-122.39526
+65,55,Townsend at 7th,Temporary Transbay Terminal (Howard at Beale),14.006439628482964,1615,37.771058,-122.402717,37.789756,-122.394643
+66,69,South Van Ness at Market,San Francisco Caltrain 2 (330 Townsend),11.68357142857144,1610,37.774814,-122.418954,37.7766,-122.39547
+60,55,Embarcadero at Sansome,Temporary Transbay Terminal (Howard at Beale),9.285217572350625,1601,37.80477,-122.403234,37.789756,-122.394643
+75,70,Mechanics Plaza (Market at Battery),San Francisco Caltrain (Townsend at 4th),12.808840125391844,1595,37.7913,-122.399051,37.776617,-122.39526
+45,70,Commercial at Montgomery,San Francisco Caltrain (Townsend at 4th),13.4752155625657,1585,37.794231,-122.402923,37.776617,-122.39526
+70,39,San Francisco Caltrain (Townsend at 4th),Powell Street BART,10.46943532501641,1523,37.776617,-122.39526,37.783871,-122.408433
+57,70,5th at Howard,San Francisco Caltrain (Townsend at 4th),6.722108843537414,1519,37.781752,-122.405127,37.776617,-122.39526
+70,62,San Francisco Caltrain (Townsend at 4th),2nd at Folsom,7.730647291941875,1514,37.776617,-122.39526,37.785299,-122.396236
+70,49,San Francisco Caltrain (Townsend at 4th),Spear at Folsom,9.861748452696721,1508,37.776617,-122.39526,37.790302,-122.390637
+73,51,Grant Avenue at Columbus Avenue,Embarcadero at Folsom,9.280337328007086,1502,37.7979,-122.405942,37.791464,-122.391034
+70,75,San Francisco Caltrain (Townsend at 4th),Mechanics Plaza (Market at Battery),14.017935024477088,1498,37.776617,-122.39526,37.7913,-122.399051
+54,60,Embarcadero at Bryant,Embarcadero at Sansome,14.048553162853295,1486,37.787152,-122.388013,37.80477,-122.403234
+70,54,San Francisco Caltrain (Townsend at 4th),Embarcadero at Bryant,8.725834460983291,1478,37.776617,-122.39526,37.787152,-122.388013
+56,69,Beale at Market,San Francisco Caltrain 2 (330 Townsend),11.89686154543394,1471,37.792251,-122.397086,37.7766,-122.39547
+73,70,Grant Avenue at Columbus Avenue,San Francisco Caltrain (Townsend at 4th),16.26245050081527,1431,37.7979,-122.405942,37.776617,-122.39526
+2,6,San Jose Diridon Caltrain Station,San Pedro Square,7.125735294117648,1428,37.329732,-121.901782,37.336721,-121.894074
+55,82,Temporary Transbay Terminal (Howard at Beale),Broadway St at Battery St,8.233820384889512,1403,37.789756,-122.394643,37.798541,-122.400862
+50,64,Harry Bridges Plaza (Ferry Building),2nd at South Park,9.49585741811174,1384,37.795392,-122.394203,37.782259,-122.392738
+70,57,San Francisco Caltrain (Townsend at 4th),5th at Howard,7.255518682399229,1356,37.776617,-122.39526,37.781752,-122.405127
+28,32,Mountain View Caltrain Station,Castro Street and El Camino Real,6.693409706824355,1353,37.394358,-122.076713,37.385956,-122.083678
+74,65,Steuart at Market,Townsend at 7th,15.216355023684864,1337,37.794139,-122.394434,37.771058,-122.402717
+76,67,Market at 4th,Market at 10th,8.458205912334362,1308,37.786305,-122.404966,37.776619,-122.417385
+55,76,Temporary Transbay Terminal (Howard at Beale),Market at 4th,8.191928480204338,1305,37.789756,-122.394643,37.786305,-122.404966
+56,60,Beale at Market,Embarcadero at Sansome,10.38599590373784,1302,37.792251,-122.397086,37.80477,-122.403234
+6,2,San Pedro Square,San Jose Diridon Caltrain Station,6.931964885101988,1291,37.336721,-121.894074,37.329732,-121.901782
+56,61,Beale at Market,2nd at Townsend,9.057078157349885,1288,37.792251,-122.397086,37.780526,-122.390288
+48,70,Embarcadero at Vallejo,San Francisco Caltrain (Townsend at 4th),15.621443487340112,1277,37.799953,-122.398525,37.776617,-122.39526
+76,55,Market at 4th,Temporary Transbay Terminal (Howard at Beale),7.18684279705573,1268,37.786305,-122.404966,37.789756,-122.394643

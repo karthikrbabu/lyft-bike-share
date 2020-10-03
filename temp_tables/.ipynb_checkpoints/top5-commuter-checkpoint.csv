@@ -1,0 +1,6 @@
+start_station_name,end_station_name,avg_trip_time,trip_count
+2nd at Townsend,Harry Bridges Plaza (Ferry Building),8.539755981619388,6311
+Harry Bridges Plaza (Ferry Building),2nd at Townsend,9.865166552589569,5844
+Embarcadero at Folsom,San Francisco Caltrain (Townsend at 4th),10.315270460133455,5694
+San Francisco Caltrain (Townsend at 4th),Harry Bridges Plaza (Ferry Building),11.949993891637643,5457
+Harry Bridges Plaza (Ferry Building),Embarcadero at Sansome,12.177054920751884,5426
