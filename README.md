@@ -1,4 +1,4 @@
-# Project #1 - Bike Share Analysis 
+# Bike Share Analysis 
 An analysis of Lyft Bay Wheels Bike share data in the Bay Area
 
 
